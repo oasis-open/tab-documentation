@@ -14,7 +14,7 @@ OASIS purple:
 ## <span style="color:#3B006F">TAB Approved Draft
 ## <span style="color:#3B006F">26 July 2018
 
-## <span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
+## <span style="color:#3B006F">OASIS Technical Advisory Board. [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
 
 <span style="color:#3B006F">**Members:**</span>
   
@@ -57,6 +57,7 @@ This document and the information contained herein is provided on an "AS IS" bas
 
 The name "OASIS" is a trademark of [OASIS](https://www.oasis-open.org/), the owner and developer of this specification, and should be used only to refer to the organization and its official outputs. OASIS welcomes reference to, and implementation and use of, specifications, while reserving the right to enforce its marks against misleading uses. Please see [https://www.oasis-open.org/policies-guidelines/trademark](https://www.oasis-open.org/policies-guidelines/trademark) for above guidance.
 
+-------
 ## <span style="color:#3B006F">Table of Contents  
 
 1. Goals of Minutes
@@ -81,6 +82,7 @@ The name "OASIS" is a trademark of [OASIS](https://www.oasis-open.org/), the own
 
 Appendix A. Meeting Minutes Template
 
+-------
 # <span style="color:#3B006F">1. Goals of Minutes
 
 The minutes of TC meetings are a key part of the group’s historical record. They are useful for members who miss a meeting or as a reminder of decisions made and pending business in preparation for an upcoming meeting. They memorialize attendance and quorum, document key decisions and milestones, and, in many cases, are needed when requesting support actions from OASIS staff.
@@ -176,6 +178,7 @@ It is good practice to indicate if changes are made to draft minutes when they a
 
 Please let us know if you have any questions or suggestions on this document. Send comments to [tab-askthetab@lists.oasis-open.org](tab-askthetab@lists.oasis-open.org).
 
+-------
 # <span style="color:#3B006F">Appendix A. Meeting Minutes Template
 
 Here is a simple template that you can use for your meeting minutes.
