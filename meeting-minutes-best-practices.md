@@ -14,7 +14,7 @@ OASIS purple:
 ## <span style="color:#3B006F">TAB Approved Draft
 ## <span style="color:#3B006F">26 July 2018
 
-##<span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
+## <span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
 
 <span style="color:#3B006F">**Members:**</span>
   
