@@ -180,40 +180,40 @@ Please let us know if you have any questions or suggestions on this document. Se
 
 Here is a simple template that you can use for your meeting minutes.
 
-*Title:*  Minutes of the <tc-name> meeting on <date>
+**Title:**  Minutes of the <tc-name> meeting on <date>
 
-*Agenda:*
+**Agenda:**
 
 <list of agenda items with any pre-planned motions listed>
 
-*Attendees:*
+**Attendees:**
 
 <list of TC members attending>
 
 The meeting <had / did not have> quorum (XX of YY Voting Members).
 
-* Action items:* 
+**Action items:**
 
 - <name of assignee> - <action item assigned and status>
 
-*Announcements:*
+**Announcements:**
 
 <list of any general announcements made>
 
-*Standing business:*
+**Standing business:**
 
 <list and disposition of any business items addressed at every meeting>
 
 < Individual agenda items >
 
-<_for each item on the agenda, list of topics raised, motions made and outcome, straw polls taken, etc._> 
+< _for each item on the agenda, list of topics raised, motions made and outcome, straw polls taken, etc._ > 
 
-*Subcommittee reports:*
+**Subcommittee reports:**
 
 <for each subcommittee, summary of what was reported and by whom>
 
-*Any other business*
+**Any other business**
 
 <open period for items from the floor> 
 
-*Next meeting date and time:*
+**Next meeting date and time:**
