@@ -14,7 +14,7 @@ OASIS purple:
 ## <span style="color:#3B006F">TAB Approved Draft
 ## <span style="color:#3B006F">26 July 2018
 
-##<span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
+## <span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
 
 <span style="color:#3B006F">**Members:**</span>
   
@@ -65,21 +65,19 @@ The name "OASIS" is a trademark of [OASIS](https://www.oasis-open.org/), the own
 
 3. Recommendations for Meeting Minutes
 
-...* Use the word “Minutes” in the subject line
+   * Use the word “Minutes” in the subject line
 
-...* Put your minutes in the text of your email
+   * Put your minutes in the text of your email
 
-...* List changes of TC status in the minutes
+   * List changes of TC status in the minutes
 
-...* Draft minutes as soon after the meeting as possible
+   * Draft minutes as soon after the meeting as possible
 
-...* You don’t have to capture every detail in the minutes
+   * You don’t have to capture every detail in the minutes
 
-...* Include all decisions taken in your minutes
+   * Include all decisions taken in your minutes
 
-...* Minutes are draft until approved
-
-Appendix A. Meeting Minutes Template
+   * Minutes are draft until approved
 
 # <span style="color:#3B006F">1. Goals of Minutes
 
