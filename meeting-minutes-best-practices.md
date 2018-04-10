@@ -1,4 +1,4 @@
-<img src="resources/oasis-logo-large.jpg" width="25%" height="25%">
+![OASIS Logo](resources/oasis-logo-large.jpg)
 
 ***
 <!--
@@ -14,7 +14,7 @@ OASIS purple:
 ## <span style="color:#3B006F">TAB Approved Draft
 ## <span style="color:#3B006F">26 July 2018
 
-## <span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
+##<span style="color:#3B006F">OASIS Technical Advisory Board, [https://www.oasis-open.org/committees/tab/](https://www.oasis-open.org/committees/tab/) </span>  
 
 <span style="color:#3B006F">**Members:**</span>
   
@@ -78,6 +78,8 @@ The name "OASIS" is a trademark of [OASIS](https://www.oasis-open.org/), the own
    * Include all decisions taken in your minutes
 
    * Minutes are draft until approved
+
+Appendix A. Meeting Minutes Template
 
 # <span style="color:#3B006F">1. Goals of Minutes
 
@@ -174,3 +176,44 @@ It is good practice to indicate if changes are made to draft minutes when they a
 
 Please let us know if you have any questions or suggestions on this document. Send comments to [tab-askthetab@lists.oasis-open.org](tab-askthetab@lists.oasis-open.org).
 
+# <span style="color:#3B006F">Appendix A. Meeting Minutes Template
+
+Here is a simple template that you can use for your meeting minutes.
+
+*Title:*  Minutes of the <tc-name> meeting on <date>
+
+*Agenda:*
+
+<list of agenda items with any pre-planned motions listed>
+
+*Attendees:*
+
+<list of TC members attending>
+
+The meeting <had / did not have> quorum (XX of YY Voting Members).
+
+* Action items:* 
+
+- <name of assignee> - <action item assigned and status>
+
+*Announcements:*
+
+<list of any general announcements made>
+
+*Standing business:*
+
+<list and disposition of any business items addressed at every meeting>
+
+< Individual agenda items >
+
+<_for each item on the agenda, list of topics raised, motions made and outcome, straw polls taken, etc._> 
+
+*Subcommittee reports:*
+
+<for each subcommittee, summary of what was reported and by whom>
+
+*Any other business*
+
+<open period for items from the floor> 
+
+*Next meeting date and time:*
