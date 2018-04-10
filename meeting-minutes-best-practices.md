@@ -1,4 +1,4 @@
-![OASIS Logo](resources/oasis-logo-large.jpg)
+<img src="resources/oasis-logo-large.jpg" width="25%" height="25%"
 
 ***
 <!--
