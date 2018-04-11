@@ -122,15 +122,12 @@ Note that you can keep draft minutes in a mutable format such as a wiki or a Goo
 One helpful addition to TC minutes is a statement of who gained or lost voting rights as of the last meeting and other changes in status such as Leaves of Absence. For example:
 
 | **Name**          | **Affiliation**             | **Role**                 | **Present** | 
-| ----------------- | --------------------------- | ------------------------ | ----------- |
-| Kevin Mangold (KM)| US National Institute       | Chair, Voting Member     |  Yes       |
-|                   | of Standards and Technology |                          |            |
-| Ross Micheals (RM)| US National Institute       | Secretary, Voting Member |  Yes       |
-|                   | of Standards and Technology |                          |            |
-| Anne Wang (AW)    | 3M HIS (Cogent)             | Voting Member            |            |
-| Cathy Tilton (CT) | Daon                        | Member (will gain voting |            |
-|                   |                             | rights after the meeting)|  Yes       |
-|Sander Fieten (SF) | Individual                  | Voting Member            |            |
+|--------------------|--------------------------------------------------------|----------------------------------------------------------|-----|
+| Kevin Mangold (KM) | US National Institute<br />of Standards and Technology | Chair, Voting Member                                     | Yes |
+| Ross Micheals (RM) | US National Institute<br />of Standards and Technology | Secretary, Voting Member                                 | Yes |
+| Anne Wang (AW)     | 3M HIS (Cogent)                                        | Voting Member                                            |     |
+| Cathy Tilton (CT)  | Daon                                                   | Member (will gain voting<br /> rights after the meeting) | Yes |
+| Sander Fieten (SF) | Individual                                             | Voting Member                                            |     |
 
 Recording these in your minutes can help alert your members to their change in status so that they are not surprised at their next meeting.
 
