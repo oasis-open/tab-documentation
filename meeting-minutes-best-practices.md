@@ -47,7 +47,7 @@ When referencing this specification the following citation format should be used
 -------
 ## <span style="color:#3B006F">Notices
 
-Copyright © OASIS Open 2017. All Rights Reserved.
+Copyright © OASIS Open 2017-2018. All Rights Reserved.
 
 This document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published, and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this section are included on all such copies and derivative works. However, this document itself may not be modified in any way, including by removing the copyright notice or references to OASIS, except as needed for the purpose of developing any document or deliverable produced by an OASIS Technical Committee (in which case the rules applicable to copyrights, as set forth in the OASIS IPR Policy, must be followed) or as required to translate it into languages other than English.
 
