@@ -49,7 +49,7 @@
 
 <li><a href="mailto:jdurand@us.fujitsu.com">Jacques Durand</a>; GitHub ID: <a href="https://github.com/jdanrud/">https://github.com/jdanrud/</a>; WWW: <a href="http://www.fujitsu.com/us/">Fujitsu North America</a></li>
 
-<li><a href="mailto:trey@kingfisherops.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="https://kingfisherops.com/">Kingfisher Operations</a></li>
+<li><a href="mailto:trey@newcontext.com">Trey Darley</a>; GitHub ID: <a href="https://github.com/treyka/">https://github.com/treyka/</a>; WWW: <a href="https://www.newcontext.com/">New Context</a></li>
 
 <!-- 
 <li><a href="mailto:malhotrasahib@gmail.com">Ashok Malhotra</a>; GitHub ID: <a href="https://github.com/xxxx/">https://github.com/xxxx/</a> (Individual)</li>
