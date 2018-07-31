@@ -1,4 +1,4 @@
-<img src="resources/oasis-logo-large.jpg" width=25% height=25%>
+<img src="resources/OASISlogo-v2.0.png" width=25% height=25%>
 
 ***
 <!--
